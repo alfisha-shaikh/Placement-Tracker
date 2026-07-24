@@ -141,7 +141,7 @@ http://localhost/Placement-Tracker/
 **Alfisha Shaikh**
 
 - GitHub: https://github.com/alfisha-shaikh
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: (https://www.linkedin.com/in/alfisha-shaikh-523388369/)
 
 ---
 
