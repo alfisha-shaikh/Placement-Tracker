@@ -102,23 +102,23 @@ http://localhost/Placement-Tracker/
 
 ### Registration Page
 
-![Registration Page](images/register%20page.jpeg)
+![Registration Page](images/register.jpeg)
 
 ### Dashboard
 
-(Add Screenshot)
+![Dashboard](images/dashboard.jpeg)
 
 ### Job Applications
 
-(Add Screenshot)
+![Job Applications](images/job%20applications.jpeg)
 
 ### Interview Management
 
-(Add Screenshot)
+![Interview Management](images/interview.jpeg)
 
 ### Profile Page
 
-(Add Screenshot)
+![Profile Page](images/profile%20page.jpeg)
 
 ---
 
