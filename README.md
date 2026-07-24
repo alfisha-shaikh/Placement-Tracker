@@ -98,7 +98,7 @@ http://localhost/Placement-Tracker/
 
 ### Login Page
 
-(Add Screenshot)
+![Login Page](images/login%20page.jpeg)
 
 ### Registration Page
 
