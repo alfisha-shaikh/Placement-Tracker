@@ -102,7 +102,7 @@ http://localhost/Placement-Tracker/
 
 ### Registration Page
 
-(Add Screenshot)
+![Registration Page](images/register%20page.jpeg)
 
 ### Dashboard
 
