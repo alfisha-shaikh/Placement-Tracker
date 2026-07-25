@@ -15,8 +15,10 @@ A web-based **Placement Tracker** developed as a Final Year Project using **PHP*
 - 📊 Dashboard to Track Placement Progress
 - 🔒 Secure Session Management
 - 💻 Responsive User Interface
-
----
+- ⏰ Interview Reminders
+- 🔍 Search & Filter
+  
+ ---
 
 ## 🛠️ Tech Stack
 
@@ -126,9 +128,7 @@ http://localhost/Placement-Tracker/
 
 - Resume Upload
 - Email Notifications
-- Interview Reminders
 - Company-wise Analytics
-- Search & Filter
 - Export Reports (PDF/Excel)
 - Admin Dashboard
 - Dark Mode
